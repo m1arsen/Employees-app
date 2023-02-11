@@ -1,0 +1,22 @@
+.search-panel {
+    margin-top: 30px;
+    padding: 25px;
+    background-color: #222;
+    border-radius: 10px;
+    border: 1px solid #424242;
+    box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+}
+
+.search-panel input {
+    width: 100%;
+    padding: 6px 12px;
+
+    border: 0;
+    background-color: #424242;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.search-panel input::placeholder {
+    color: #AEB2B2;
+}

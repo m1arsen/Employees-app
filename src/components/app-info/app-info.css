@@ -1,0 +1,8 @@
+.app-info {
+    padding: 25px;
+    background-color: #222;
+    border-radius: 10px;
+    border: 1px solid #424242;
+    box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+    color: #fff;
+}
